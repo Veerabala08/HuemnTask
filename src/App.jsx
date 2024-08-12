@@ -13,7 +13,6 @@ function App() {
       <Navbar />
       <Hero />
       <SlideOne />
-      <h1>hi</h1>
       <Carousel />
     </>
   )
